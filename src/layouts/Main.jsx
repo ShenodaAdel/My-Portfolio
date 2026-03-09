@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom";
-import NavBar from "../components/common/navbar/NavBar";
+import NavBar from "../components/common/navbar/Navbar";
 import Footer from "../components/common/footer/Footer";
 import ScrollToTop from "../components/common/scrollToTop/ScrollToTop";
 import { ThemeProvider, useTheme } from "../context/ThemeContext";
